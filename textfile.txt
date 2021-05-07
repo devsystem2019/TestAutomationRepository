@@ -2,3 +2,4 @@ Commit-1 : Commit for null Pusher email scenario.
 Commit-2 : Commit for scenario when Pusher email is present.
 Commit-3 : Commit for scenario when Pusher email is an empty String.
 Commit-4 : Commit for scenario when both Pusher email and Committer Email are empty Strings.
+Commit-5 : Commit for scenario when both Pusher email and Committer Email are null.
